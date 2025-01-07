@@ -1,7 +1,5 @@
 # LangChain-RAG Experiments and Embedding Model Testing
 
-This repository contains a series of experiments exploring Retrieval-Augmented Generation (RAG) using various embedding models and LLM agents with LangChain. The goal is to evaluate and compare different embeddings, databases, and agent behaviors to optimize RAG pipelines for diverse applications.
-
 📌 Project Overview
 
 In this project, we:
